@@ -22,7 +22,7 @@
     </android.support.design.widget.AppBarLayout>
 
     <Button
-        android:text="Button"
+        android:text="Take Picture"
         android:layout_width="186dp"
         android:layout_height="110dp"
         android:id="@+id/button1"
@@ -39,9 +39,6 @@
         app:layout_anchorGravity="center_vertical|center_horizontal"
         android:layout_gravity="center_vertical|center_horizontal" />
 
-    <include layout="@layout/content_main_screen"
-        android:id="@+id/include" />
-
     <TextView
         android:layout_width="match_parent"
         android:layout_height="123dp"
@@ -53,6 +50,9 @@
         android:text="Current Streak: 0"
         android:textAppearance="@style/TextAppearance.AppCompat.Menu"
         android:textAlignment="center" />
+
+    <include layout="@layout/content_main_screen"
+        android:id="@+id/include" />
 
 
 </android.support.design.widget.CoordinatorLayout>
