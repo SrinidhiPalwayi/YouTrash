@@ -1,6 +1,9 @@
 package com.example.myothiha09.m4cs2340.controller;
 
+import android.app.Activity;
+import android.app.AlertDialog;
 import android.content.Intent;
+import android.graphics.Bitmap;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.design.widget.FloatingActionButton;
@@ -14,6 +17,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.Button;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.example.myothiha09.m4cs2340.R;
@@ -35,6 +40,8 @@ public class MainScreenActivity extends AppCompatActivity {
     User user;
     TextView userHeader;
     TextView userTypeHeader;
+    private static final int CAMERA_REQUEST = 1888;
+    private ImageView imageView;
 
     /**
      * Loads the user's data, sets the layout and view, set references
@@ -53,6 +60,20 @@ public class MainScreenActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         String username = getIntent().getStringExtra("Username");
+
+        this.imageView = (ImageView)this.findViewById(R.id.imageView1);
+        Button photoButton = (Button) this.findViewById(R.id.button1);
+        photoButton.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                Intent cameraIntent = new Intent(android.provider.MediaStore.ACTION_IMAGE_CAPTURE);
+                startActivityForResult(cameraIntent, CAMERA_REQUEST);
+            }
+        });
+
+
+
         for (User user2: User.usersList) {
             if (user2.getName().equals(username)) {
                 user = user2;
@@ -93,6 +114,14 @@ public class MainScreenActivity extends AppCompatActivity {
         userTypeHeader.setText(user.getUserType().toString());
     }
 
+
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        if (requestCode == CAMERA_REQUEST && resultCode == Activity.RESULT_OK) {
+            Bitmap photo = (Bitmap) data.getExtras().get("data");
+            imageView.setImageBitmap(photo);
+        }
+    }
+
     /**
      * Handles if the back button is pressed by modifying the drawer layout appropriately.
      */
@@ -106,6 +135,8 @@ public class MainScreenActivity extends AppCompatActivity {
             super.onBackPressed();
         }
     }
+
+
 
     /**
      * Inflates the options menu.

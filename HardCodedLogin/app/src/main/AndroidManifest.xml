@@ -21,6 +21,10 @@
             android:name=".controller.MainScreenActivity"
             android:label="@string/title_activity_main_screen"
             android:theme="@style/AppTheme.NoActionBar" />
+        <uses-feature android:name="android.hardware.camera"
+            android:required="true" />
+
+
     </application>
 
 </manifest>

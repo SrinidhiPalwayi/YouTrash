@@ -3,39 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/Users/nidhi/Desktop/M4/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
-        <dex dex="/Users/nidhi/Desktop/M4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_b17487021ec34d14522fcbb72881a380b44fdc24/classes.dex" />
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_10e56e4c3d99eaa85ab8809fade3f0f50e3dc56f/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/nidhi/Desktop/M4/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/nidhi/Desktop/M4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_22bc2decb266ce17807048be3b03285f7c339ba3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/nidhi/Desktop/M4/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7863173bad1613f5d5b07cba2466b17738bda212">
-        <dex dex="/Users/nidhi/Desktop/M4/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1ac7ffb878b6e79361578a86b893484f1bd854c7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/nidhi/Desktop/M4/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
-        <dex dex="/Users/nidhi/Desktop/M4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_76572d88df9093dd5b2969896dc0890b52720f2a/classes.dex" />
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_87a647bccb507be84b5c8150c9b3e33f5513b127/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -44,97 +26,115 @@
         optimize="true"
         revision="25.0.2"
         sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
-        <dex dex="/Users/nidhi/Desktop/M4/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_86e2bfa3ca5d48b10e858a7ee93734e425cc42ea/classes.dex" />
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_86e2bfa3ca5d48b10e858a7ee93734e425cc42ea/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/nidhi/Desktop/M4/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
-        <dex dex="/Users/nidhi/Desktop/M4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_10999f7d8822e055b509ad0852830084700cf6b8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/nidhi/Desktop/M4/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
-        <dex dex="/Users/nidhi/Desktop/M4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_31e793bea626d2f1d9e9d4181ca5bcb6f1ec4073/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/nidhi/Desktop/M4/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
-        <dex dex="/Users/nidhi/Desktop/M4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_819a878c5fbb4fa3cd95345f46c35325d7c000e4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/nidhi/Desktop/M4/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
-        <dex dex="/Users/nidhi/Desktop/M4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_2ec8bb022f35398f98af0e023491160eca82f170/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/nidhi/Desktop/M4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
-        <dex dex="/Users/nidhi/Desktop/M4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_25a4b31c41eb614002469944cc94b454c54bfaa3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/nidhi/Desktop/M4/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
-        <dex dex="/Users/nidhi/Desktop/M4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.1_6a6e002dd70be95d0d78d2bea8c5e90976f07506/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/nidhi/Desktop/M4/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
-        <dex dex="/Users/nidhi/Desktop/M4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_ce23c0ed3339fb61d0cc97a9112cf03a2322b430/classes.dex" />
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_3e977fe4aae4ea48cfd4ae20ab14058646503c72/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/nidhi/Desktop/M4/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
-        <dex dex="/Users/nidhi/Desktop/M4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.1_c105a1ced0e24a1b6102e43a33ba640ca016dd59/classes.dex" />
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.1_b10f290ecaa5af56a28b0ad9fbfc8ead891004ab/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/nidhi/Desktop/M4/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="7110f8b490a54a6c0c7fde11e46ecd4caac196f2">
-        <dex dex="/Users/nidhi/Desktop/M4/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7737e19df2abf84b8cc1ae2de1afe74666631476/classes.dex" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_b6b2ec37851084bd7d74560ed8f5d81ed5822f64/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/nidhi/Desktop/M4/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_075a5cce2f6333b037dfdcdf834dda9b3d8594a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1c9f15d8bc4e9ed255e50a23e1cafab0f7b22848">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b994cc78d1400f3ee3f3ff6c2a1c0356701f3dff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c2e6eece035862be777945e46b6be15ff117d45">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a45f8e671b363b0145dffbbbe4b35ccb706509ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
-        <dex dex="/Users/nidhi/Desktop/M4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.1_2bae95387c42495bc1804f578d4a5d08223f0e0c/classes.dex" />
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.1_984993abab4c9f2d0c56c2e149e4a259ce751fbb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_b66d5f4321a8f1bbcd53f37145a54da7733c0033/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_da404a25bfb75e63c8d2c66336f351673a50db7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.1_8a58c950124050309497065c91ead096841103fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_7cd4ef84efa065a0ff64c53c1927264ff02fdbd8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_8da249e70dc68c6ff09552b927c8ddfda42c671f/classes.dex" />
     </item>
 
 </items>
