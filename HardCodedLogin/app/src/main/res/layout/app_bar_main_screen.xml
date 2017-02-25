@@ -43,13 +43,16 @@
         android:id="@+id/include" />
 
     <TextView
-        android:text="TextView"
         android:layout_width="match_parent"
         android:layout_height="123dp"
         android:id="@+id/textView"
         app:layout_anchor="@+id/include"
         app:layout_anchorGravity="center_vertical|left"
-        android:layout_gravity="top|right" />
+        android:layout_gravity="top|right"
+        tools:text="Current Streak: 0"
+        android:text="Current Streak: 0"
+        android:textAppearance="@style/TextAppearance.AppCompat.Menu"
+        android:textAlignment="center" />
 
 
 </android.support.design.widget.CoordinatorLayout>
