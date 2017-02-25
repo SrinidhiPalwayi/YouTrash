@@ -12,9 +12,14 @@
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="com.example.myothiha09.m4cs2340.controller.MainScreenActivity"
     tools:showIn="@layout/app_bar_main_screen">
+
     <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:id="@+id/fragment_container"></FrameLayout>
+        android:id="@+id/fragment_container"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true">
+
+    </FrameLayout>
 
 </RelativeLayout>

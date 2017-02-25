@@ -3,138 +3,138 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\Randy\Dropbox\YouTrash\HardCodedLogin\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
-        <dex dex="C:\Users\Randy\Dropbox\YouTrash\HardCodedLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.1_645078c92adfab926affe7112e3f72bb31c25c0e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Randy\Dropbox\YouTrash\HardCodedLogin\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
-        <dex dex="C:\Users\Randy\Dropbox\YouTrash\HardCodedLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_33dc9d21ee81af095f2798e60a4211363168a9a6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Randy\Dropbox\YouTrash\HardCodedLogin\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
-        <dex dex="C:\Users\Randy\Dropbox\YouTrash\HardCodedLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_e0f7b8b95990a474ccf4f3b0bea5f76ba6b32981\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Randy\Dropbox\YouTrash\HardCodedLogin\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jar="/Users/leochen/Documents/YouTrash/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
-        <dex dex="C:\Users\Randy\Dropbox\YouTrash\HardCodedLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_5449a2051e8e8a312e78ae2f23033d10d496b950\classes.dex" />
+        <dex dex="/Users/leochen/Documents/YouTrash/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_9717b547566635429a741df01b6980a6b123598c/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Randy\Dropbox\YouTrash\HardCodedLogin\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jar="/Users/leochen/Documents/YouTrash/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
-        <dex dex="C:\Users\Randy\Dropbox\YouTrash\HardCodedLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_05a46ee12d593c17732408e0d91569334fff0c63\classes.dex" />
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/leochen/Documents/YouTrash/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_0eaacf3b31c4eacfb24841d46e3747235021c1d1/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Randy\Dropbox\YouTrash\HardCodedLogin\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
-        <dex dex="C:\Users\Randy\Dropbox\YouTrash\HardCodedLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.1_3bf7bf94c36024311766a5049df0e65f32104e4f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Randy\Dropbox\YouTrash\HardCodedLogin\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="df5abec55aef2be4538062354194e2160ee9fe50">
-        <dex dex="C:\Users\Randy\Dropbox\YouTrash\HardCodedLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_225ded6ab6cd186f5311c9fb114b80e4c06d3c88\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Randy\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
-        <dex dex="C:\Users\Randy\Dropbox\YouTrash\HardCodedLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_c5a57f5e55c57930512560864d7d81f59661d8ba\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Randy\Dropbox\YouTrash\HardCodedLogin\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
-        <dex dex="C:\Users\Randy\Dropbox\YouTrash\HardCodedLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_526dfefb1b0c4a33d59577fc5258763237d4d28d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Randy\Dropbox\YouTrash\HardCodedLogin\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jar="/Users/leochen/Documents/YouTrash/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\Randy\Dropbox\YouTrash\HardCodedLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_07dd8f6513d4a02feecb3525d440cc931f9987c7\classes.dex" />
+        <dex dex="/Users/leochen/Documents/YouTrash/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_bc60ff74e07f9539fd843f50328d815767a2ec77/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Randy\Dropbox\YouTrash\HardCodedLogin\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jar="/Users/leochen/Documents/YouTrash/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
-        <dex dex="C:\Users\Randy\Dropbox\YouTrash\HardCodedLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_df43ae44a6960521d9a8eed399591228623fec36\classes.dex" />
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/leochen/Documents/YouTrash/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.1_030d23dc621da4255db2b1fc0c8e3d44f6b881d0/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Randy\Dropbox\YouTrash\HardCodedLogin\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jar="/Users/leochen/Documents/YouTrash/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/leochen/Documents/YouTrash/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.1_fa4b3e3c7f184f9ade5a3072d28cf4bf21a052a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leochen/Documents/YouTrash/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
-        <dex dex="C:\Users\Randy\Dropbox\YouTrash\HardCodedLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_db997d3bf7741d3c396d479715baa674e4d7401b\classes.dex" />
+        <dex dex="/Users/leochen/Documents/YouTrash/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_12f734f29643cfd1c5150884951085d6e04506d9/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Randy\Dropbox\YouTrash\HardCodedLogin\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jar="/Users/leochen/Documents/YouTrash/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/leochen/Documents/YouTrash/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_b88cc599f02541a1d344ab79ba4fec9f13d3c583/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leochen/Documents/YouTrash/YouTrash/HardCodedLogin/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9b633db8b898102f6bd31f472bc53efa98d94a25">
+        <dex dex="/Users/leochen/Documents/YouTrash/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b7fc0889b5f28b2e357582d3b4550ec5325b4ce6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leochen/Documents/YouTrash/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
-        <dex dex="C:\Users\Randy\Dropbox\YouTrash\HardCodedLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.1_9066d93ed20e4519c74324b77918033cd39cd1c6\classes.dex" />
+        <dex dex="/Users/leochen/Documents/YouTrash/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.1_db32993423552806f38bdc4b34868dbd3cb39691/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Randy\Dropbox\YouTrash\HardCodedLogin\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jar="/Users/leochen/Documents/YouTrash/YouTrash/HardCodedLogin/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f92fae09504287fb2992652254a76a06985a80f5">
+        <dex dex="/Users/leochen/Documents/YouTrash/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9a21d414fb5a517c7e6fa2dbb8387085b12a7197/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leochen/Documents/YouTrash/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/leochen/Documents/YouTrash/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_4fb807724e31821a65cd1bbfa65ae7e1333f81b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leochen/Documents/YouTrash/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/leochen/Documents/YouTrash/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_f1bc6ee0aa067b0422be7309bedcdd29c2a0f528/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leochen/Documents/YouTrash/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
-        <dex dex="C:\Users\Randy\Dropbox\YouTrash\HardCodedLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_c223f02d48f4958c83d06d53f3db69fe1f0cc417\classes.dex" />
+        <dex dex="/Users/leochen/Documents/YouTrash/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_70c218315a56ddc2100ff3ba381bef3a6d03e103/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Randy\Dropbox\YouTrash\HardCodedLogin\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="/Users/leochen/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="89610ddb217233eaaf36fe4962fc06c844de903d">
-        <dex dex="C:\Users\Randy\Dropbox\YouTrash\HardCodedLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b0cefa1f9f32878a31c54dba1e88b75226dfdaa7\classes.dex" />
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/leochen/Documents/YouTrash/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_aa8e580ef06ac8606bd48cfee4ed2a59585f3b03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leochen/Documents/YouTrash/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/leochen/Documents/YouTrash/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_21da1e9afdc5dff9040d7cdd14e80b5e0ca19e2b/classes.dex" />
     </item>
 
 </items>
