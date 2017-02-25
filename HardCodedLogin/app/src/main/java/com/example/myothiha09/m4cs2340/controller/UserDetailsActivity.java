@@ -1,5 +1,9 @@
 package com.example.myothiha09.m4cs2340.controller;
 
+import android.Manifest;
+import android.content.pm.PackageManager;
+import android.location.Location;
+import android.support.v4.app.ActivityCompat;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -15,6 +19,9 @@ import com.example.myothiha09.m4cs2340.R;
 import com.example.myothiha09.m4cs2340.model.User;
 import com.example.myothiha09.m4cs2340.model.UserType;
 
+import com.google.android.gms.common.api.GoogleApiClient;
+import com.google.android.gms.location.LocationServices;
+
 // Team 27
 
 /**
@@ -29,8 +36,11 @@ public class UserDetailsActivity extends AppCompatActivity {
     EditText userName;
     EditText password;
     EditText email;
+    EditText Quad;
     Spinner userType;
     boolean newAccount;
+    GoogleApiClient mGoogleApiClient;
+    private String x;
 
     /**
      * Sets references to all the views, creates the adapter,
@@ -51,6 +61,8 @@ public class UserDetailsActivity extends AppCompatActivity {
         password = (EditText) findViewById(R.id.password_field);
         email = (EditText) findViewById(R.id.email_field);
         Button registerButton = (Button) findViewById(R.id.registerButton);
+        Button locationButt = (Button) findViewById(R.id.locationButt);
+        Quad = (EditText) findViewById(R.id.Quad);
 
         ArrayAdapter<String> adapter = new ArrayAdapter(this, android.R.layout.simple_spinner_item, User.userTypeList);
         adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
@@ -65,12 +77,29 @@ public class UserDetailsActivity extends AppCompatActivity {
             password.setText(user.getPassword());
             email.setText(user.getEmail());
             registerButton.setText("Save Changes");
+            locationButt.setText("Set Home");
         } else {
             newAccount = true;
         }
 
+        System.out.println("got here!!!");
+        mGoogleApiClient = new GoogleApiClient.Builder(this)
+                .addApi(LocationServices.API)
+                .build();
+        mGoogleApiClient.connect();
+        String Quadrant=setQuadrant();
+
         //Creates the user if the register button is pressed.
         //But first validates all the input the user has entered.
+
+        locationButt.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+
+                Quad.setText("NE");
+
+            }
+        });
 
         registerButton.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -119,6 +148,9 @@ public class UserDetailsActivity extends AppCompatActivity {
         });
     }
 
+
+
+
     /**
      * Checks to see if the username is not taken.
      * @return if the username was taken or not (true if taken).
@@ -130,6 +162,38 @@ public class UserDetailsActivity extends AppCompatActivity {
                 return true;
         }
         return false;
+    }
+
+    public String setQuadrant()
+    {
+        Location mLastLocation=null;
+        x="";
+        if (ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_COARSE_LOCATION)
+                == PackageManager.PERMISSION_GRANTED)
+            mLastLocation = LocationServices.FusedLocationApi.getLastLocation(mGoogleApiClient);
+        if (mLastLocation!=null)
+        {
+            x=findQuadrant(mLastLocation.getLatitude(), mLastLocation.getLongitude());
+        }
+        else
+            x="NE";
+        return x;
+    }
+
+    public String getQuadrant() {
+        return x;
+    }
+
+    public String findQuadrant(double Lat, double Long)
+    {
+        if (Lat>33.7541)
+            if (Long>84.3915)
+                return "NE";
+            else
+                return "NW";
+        if (Long>84.3915)
+            return "SE";
+        return "SW";
     }
 
     /**

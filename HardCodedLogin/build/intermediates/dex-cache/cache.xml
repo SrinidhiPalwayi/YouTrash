@@ -3,6 +3,7 @@
 
     <item
         is-multidex="true"
+<<<<<<< Updated upstream
         jar="/Users/leochen/Documents/YouTrash/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -135,6 +136,599 @@
         revision="25.0.2"
         sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
         <dex dex="/Users/leochen/Documents/YouTrash/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_21da1e9afdc5dff9040d7cdd14e80b5e0ca19e2b/classes.dex" />
+=======
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8438c64f9eb581429dc592f7c9b3156a3d071653">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-v4-impl-10.2.0_0b87212ab3cc67e4ef07671c862294be6b641786/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.2.0_b94457bd6fbd71d381468f3c17a42f6848224225/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="423fb69e69759d8b726fa4a4fb6a1ea9fc86d1cd">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-10.2.0_7900fcffdeb7a761d19424ddeadcb61596b2ff83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.2.0_50aa41c5c67058776d3944d0392314d6f7e643a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_3e977fe4aae4ea48cfd4ae20ab14058646503c72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.2.0_83a10037830ae074287f484ec3f262c7b421bcc8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.1_b10f290ecaa5af56a28b0ad9fbfc8ead891004ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_eb76ab7ac9d297337d0f8d2e114d5b0a9fc37500/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3f7595ca32e614b454ceb7b7e241bb037a28e86">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-10.2.0_8f1a9357f585a081ed7261c6e90a7aa338594879/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.2.0_cad8623a0ee797555a4ce13e30ecc387185ffc1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="654b294d429b56fd18392f2b68ad79954f431f8e">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-10.2.0_0fbcd40985ad17ef17d77e8dc70a1f7893644f67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2690a2235d1cf952e1c4717f3ad52f31fd60d17b">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a45f8e671b363b0145dffbbbe4b35ccb706509ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="646b2c48e147b943f0a39842457fdc66d501e4b6">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-10.2.0_5826af006733f61bda11a7ef07374e10add4320e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.2.0_0654d3443dd379b76cd1e740625eee03b2e11114/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="444f9de23145e8caba7bf1c1772acad142ea6013">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-10.2.0_f9274f4a357027cafff97d413601adcf0501d85d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e1d31656bc9f1889283836e025e6cb703acd38a">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-10.2.0_4c2fd9233c8d0db12fef2afd298517c52d59a5c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="421a5cebe9ff187c98075c59786e9464c5c67d36">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-10.2.0_2e387be13a8585264a920ebd082f76d6cf4e647b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1df6d719c4e264d66bb98baa5cb637495b8cca66">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-10.2.0_3d14c69e8ce72312c66f2a37a2c64c1ab976a79a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.2.0_b6b53f14f3436d4499c9088ff8cd9abc7fa4ff1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea03bbfaed89818f233ee9918fac493f2b63895a">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-10.2.0_705776d31b3e4bde24ab3a297f7a2ee9024296f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_87a647bccb507be84b5c8150c9b3e33f5513b127/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e01b82d664e1a8253b2b9658e74b5da35c8771d">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-10.2.0_bc5341c7574405bbc6e58da0094ceb7e23ae699a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fd2e9eadc9d214966ee7f60d6c5a17a335d7533">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-10.2.0_7376d4c7e05861a959869026c5f0a155430243ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_b6b2ec37851084bd7d74560ed8f5d81ed5822f64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f58195bee8a08f35e7d4ee7fd4b0479e570e172">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-10.2.0_131e52e5b0579c892fd83ad2c5e835373120a0b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db4aca1c1ec60f2c098d3b6c91cedfb7838f83ed">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-10.2.0_7bd4181b293fadc4557475a02826fe9b9cdae9a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_075a5cce2f6333b037dfdcdf834dda9b3d8594a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddb7fed808f4331174b59428ccfc46b3696c9812">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-10.2.0_17424a00d0e82c99276d9f7d97509e5206b7f846/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.2.0_6d47bf971d6134b75773c493afeefe4e481fb2f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1fbf3733f36fea63e70373212796e70f9079981f">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-appindexing-10.2.0_eabc66e24ebafb5290eda51c530789e5b78652a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.1_8a58c950124050309497065c91ead096841103fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_8da249e70dc68c6ff09552b927c8ddfda42c671f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.2.0_d00032c87d76b1e25e3c0aed6042a6510a8faade/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.2.0_5c7ef566e8db771de437404cb916f6381c88ff9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.2.0_ae666341e89976a07e98a527049b52d15377b460/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45e0953544711e0b5a2d227732e88cccb82793bc">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-10.2.0_e9a8c1d2304618f311501c29cac46a7a18c9b2fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.2.0_6bb3cefe7cc169c0ee69dabd0489964ac624f88a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca82d5800780b1d53f0f9ab43678d8634a34cddc">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-10.2.0_148f23790685367b391a7e3d4b4be1599f426b74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74c5a91d6510ad42410e8a047d90d2ea6721a0e0">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-10.2.0_fcb9026beed1b12f20c55a15138da7d75e818ebf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90270132a5f1a33584f453c571257dd35e728201">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-10.2.0_8c278e8d991642303a6928e0a2b610fdab0cd6ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.2.0_8108bed3b6a175a937d886ebfee7ad939badbff8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="101393e975eaf36e3ff40b277ee9a019e077afef">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-10.2.0_cf565100789b7d1040bae8fdc112ac8003eea9f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_68f64fcb3a121b997b1c0845665173101dea6114/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.2.0_566033010bcc8cd2bea1ddb9872a096c12a9e2a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_7cd4ef84efa065a0ff64c53c1927264ff02fdbd8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68485f21eeb5d6c9ed82c445d520b9fc81c87108">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-10.2.0_7e8d7948e08e8cab70c691ea3509061310e01922/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d14fe9bd2283b2eb7fcab08458aa0357917e138">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-10.2.0_115264bb7a71408c28f5d3f407b55820904676cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.2.0_8dcfdf3b87986ea11d7097890b93c818c477425d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_10e56e4c3d99eaa85ab8809fade3f0f50e3dc56f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_86e2bfa3ca5d48b10e858a7ee93734e425cc42ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_cf9d4efac0a7fafd06091061204ed2a0c74e9b3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9493f008850469ed3fab9b28658919562882aed">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-10.2.0_436d7e1b9567f29500ff8a6dd55d8813524b63c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db48dfabe8ecc46681ceca418d6bd61a5339f818">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-10.2.0_919a5ee062782c98bc417750202e31704ec88962/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7157a9577c983651d6c6ee313813424fe2d8ab6">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-10.2.0_d28f6b66f59fbb64327ca4b2ae454747385b2386/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b5ccc5d6fd1e06c0b1783474596490b76a26647">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b994cc78d1400f3ee3f3ff6c2a1c0356701f3dff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d1d0e1270310e34e2d65afda2bc18605c14cd46">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-10.2.0_b00755efb5d7f980710a72b4c7ccafa8299be7d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3aaf1e7b5fe9f4d3ff22c4edc0ead631f7389d30">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-10.2.0_463c75fead837d897354ac2e96f826e7d04b2b37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.2.0_cbd6258568ed3d3bb88e3d055392d02f90688873/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.2.0_dd7e12e4cba4a988e190d7b69372c37aff6ecfb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.1_984993abab4c9f2d0c56c2e149e4a259ce751fbb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab0c7fe28f9506302eb39adf1ebf5858732e18ec">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-10.2.0_2b4dc47e23a4e2997a140babe836e5edb7c5db00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.2.0_085eaea3dd27aaf51c01c2331c5583d01b90cbf5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_b66d5f4321a8f1bbcd53f37145a54da7733c0033/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_da404a25bfb75e63c8d2c66336f351673a50db7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1bab75be1918fc9871be4da7afe38d7e4d308303">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-10.2.0_2de15847b7e8da9e7f011ac6451d702bf7f86876/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b831d3902674d096189451d46fce219e2c2904b7">
+        <dex dex="/Users/nidhi/Desktop/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-10.2.0_e713f9ab99908581bd9718853022224c1220721a/classes.dex" />
+>>>>>>> Stashed changes
     </item>
 
 </items>
