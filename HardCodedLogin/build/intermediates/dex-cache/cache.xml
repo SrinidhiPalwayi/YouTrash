@@ -70,7 +70,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="9b633db8b898102f6bd31f472bc53efa98d94a25">
+        sha1="63659ffed58e0944daac0b53c1028168476d417d">
         <dex dex="/Users/leochen/Documents/YouTrash/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b7fc0889b5f28b2e357582d3b4550ec5325b4ce6/classes.dex" />
     </item>
     <item
@@ -88,7 +88,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="f92fae09504287fb2992652254a76a06985a80f5">
+        sha1="d56d64903ed04bcf837a8468d4591db4003ece94">
         <dex dex="/Users/leochen/Documents/YouTrash/YouTrash/HardCodedLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9a21d414fb5a517c7e6fa2dbb8387085b12a7197/classes.dex" />
     </item>
     <item

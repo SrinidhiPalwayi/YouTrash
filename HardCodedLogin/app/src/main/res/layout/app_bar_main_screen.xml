@@ -44,12 +44,12 @@
 
     <TextView
         android:text="TextView"
-        android:layout_width="250dp"
-        android:layout_height="62dp"
+        android:layout_width="match_parent"
+        android:layout_height="123dp"
         android:id="@+id/textView"
         app:layout_anchor="@+id/include"
         app:layout_anchorGravity="center_vertical|left"
-        android:layout_gravity="center_vertical|right" />
+        android:layout_gravity="top|right" />
 
 
 </android.support.design.widget.CoordinatorLayout>
