@@ -50,12 +50,10 @@ public class UserDetailsActivity extends AppCompatActivity {
         userName = (EditText) findViewById(R.id.name_field);
         password = (EditText) findViewById(R.id.password_field);
         email = (EditText) findViewById(R.id.email_field);
-        userType = (Spinner) findViewById(R.id.spinner);
         Button registerButton = (Button) findViewById(R.id.registerButton);
 
         ArrayAdapter<String> adapter = new ArrayAdapter(this, android.R.layout.simple_spinner_item, User.userTypeList);
         adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
-        userType.setAdapter(adapter);
 
         //Sets the views to the current details of the user if the user is just
         //editing their profile.
@@ -66,7 +64,6 @@ public class UserDetailsActivity extends AppCompatActivity {
             userName.setEnabled(false);
             password.setText(user.getPassword());
             email.setText(user.getEmail());
-            userType.setSelection(user.getUserType().getPosition());
             registerButton.setText("Save Changes");
         } else {
             newAccount = true;
@@ -86,15 +83,13 @@ public class UserDetailsActivity extends AppCompatActivity {
                     Toast.makeText(getApplicationContext(), "Password requirement not met", Toast.LENGTH_LONG).show();
                 }  else if (email.getText().toString().equals("")) {
                     Toast.makeText(getApplicationContext(), "Please input an email", Toast.LENGTH_LONG).show();
-                } else if (userType.getSelectedItemPosition() == 0) {
-                    Toast.makeText(getApplicationContext(), "Please select a user type", Toast.LENGTH_LONG).show();
-                } else {
+                }  else {
                     if (getIntent().hasExtra(User.ARG_USER)) {
                         for (User user : User.usersList) {
                             if (user.getName().equals(userName.getText().toString())) {
                                 user.setPassword(password.getText().toString());
                                 user.setEmail(email.getText().toString());
-                                user.setUserType((UserType) userType.getSelectedItem());
+                                user.setUserType(UserType.USER);
                             }
                         }
                         finish();
@@ -103,7 +98,7 @@ public class UserDetailsActivity extends AppCompatActivity {
                         User user = new User(userName.getText().toString(),
                                 password.getText().toString(),
                                 email.getText().toString(),
-                                (UserType) userType.getSelectedItem());
+                                UserType.USER);
                         User.usersList.add(user);
                         Intent intent = new Intent(getApplicationContext(), MainScreenActivity.class);
                         intent.putExtra("Username", user.getName());
