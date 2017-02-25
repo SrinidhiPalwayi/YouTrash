@@ -33,6 +33,14 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.google.android.gms.tasks.OnCompleteListener;
+import com.google.android.gms.tasks.Task;
+import com.google.firebase.auth.AuthResult;
+import com.google.firebase.auth.FirebaseAuth;
+
+
+
+
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
@@ -49,11 +57,31 @@ import static android.Manifest.permission.READ_CONTACTS;
  */
 public class LoginActivity extends AppCompatActivity  {
 
+
+    private FirebaseAuth mAuth;
+    private FirebaseAuth.AuthStateListener mAuthListener;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        mAuth = FirebaseAuth.getInstance();
+        mAuthListener = new FirebaseAuth.AuthStateListener() {
+            @Override
+            public void onAuthStateChanged(@NonNull FirebaseAuth firebaseAuth) {
+                FirebaseUser user = firebaseAuth.getCurrentUser();
+                if (user != null) {
+                    // User is signed in
+                    Log.d(TAG, "onAuthStateChanged:signed_in:" + user.getUid());
+                } else {
+                    // User is signed out
+                    Log.d(TAG, "onAuthStateChanged:signed_out");
+                }
+                // ...
+            }
+        };
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
-        final Button loginButton = (Button) findViewById(R.id.email_sign_in_button);
+        final Button loginButton = (Button ) findViewById(R.id.email_sign_in_button);
         loginButton.setOnClickListener(new OnClickListener() {
             public void onClick(View v) {
                 checkLogin();
@@ -81,8 +109,8 @@ public class LoginActivity extends AppCompatActivity  {
     private void checkLogin() {
         final TextView username = (TextView) findViewById(R.id.email);
         final TextView password = (TextView) findViewById(R.id.password);
-        //DatabaseReference mDatabase;
-        //mDatabase = FirebaseDatabase.getInstance().getReference();
+        DatabaseReference mDatabase;
+        mDatabase = FirebaseDatabase.getInstance().getReference();
         ValueEventListener usersListener = new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {

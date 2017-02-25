@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/M4/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/nidhi/Desktop/M4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_b17487021ec34d14522fcbb72881a380b44fdc24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/M4/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/nidhi/Desktop/M4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_22bc2decb266ce17807048be3b03285f7c339ba3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/M4/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7863173bad1613f5d5b07cba2466b17738bda212">
+        <dex dex="/Users/nidhi/Desktop/M4/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1ac7ffb878b6e79361578a86b893484f1bd854c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/M4/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/nidhi/Desktop/M4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_76572d88df9093dd5b2969896dc0890b52720f2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/nidhi/Desktop/M4/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_86e2bfa3ca5d48b10e858a7ee93734e425cc42ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/M4/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/nidhi/Desktop/M4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_10999f7d8822e055b509ad0852830084700cf6b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/M4/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/nidhi/Desktop/M4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_31e793bea626d2f1d9e9d4181ca5bcb6f1ec4073/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/M4/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/nidhi/Desktop/M4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_819a878c5fbb4fa3cd95345f46c35325d7c000e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/M4/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/nidhi/Desktop/M4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_2ec8bb022f35398f98af0e023491160eca82f170/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/M4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/nidhi/Desktop/M4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_25a4b31c41eb614002469944cc94b454c54bfaa3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/M4/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/nidhi/Desktop/M4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.1_6a6e002dd70be95d0d78d2bea8c5e90976f07506/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/M4/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/nidhi/Desktop/M4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_ce23c0ed3339fb61d0cc97a9112cf03a2322b430/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/M4/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/nidhi/Desktop/M4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.1_c105a1ced0e24a1b6102e43a33ba640ca016dd59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/M4/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7110f8b490a54a6c0c7fde11e46ecd4caac196f2">
+        <dex dex="/Users/nidhi/Desktop/M4/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7737e19df2abf84b8cc1ae2de1afe74666631476/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nidhi/Desktop/M4/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/nidhi/Desktop/M4/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.1_2bae95387c42495bc1804f578d4a5d08223f0e0c/classes.dex" />
+    </item>
+
+</items>
