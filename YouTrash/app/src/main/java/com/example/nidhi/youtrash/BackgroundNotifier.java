@@ -8,8 +8,8 @@ import android.content.Intent;
  */
 
 public class BackgroundNotifier extends IntentService {
-    public BackgroundNotifier(String name) {
-        super(name);
+    public BackgroundNotifier() {
+        super("YouTrash Background");
     }
 
     public void onHandleIntent(Intent intent) {
